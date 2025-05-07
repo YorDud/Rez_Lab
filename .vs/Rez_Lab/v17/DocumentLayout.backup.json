@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49AFF7C0-8516-414B-9ECC-3A21BE535E71}|Rez_Lab.csproj|C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AFF7C0-8516-414B-9ECC-3A21BE535E71}|Rez_Lab.csproj|solutionrelative:wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AFF7C0-8516-414B-9ECC-3A21BE535E71}|Rez_Lab.csproj|c:\\users\\ya.dudarev\\desktop\\dya\\\u002Bprograms\\rez_lab\\pryam_metal\\pryam_metal_cond\\pryam_metal_cond_technolog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AFF7C0-8516-414B-9ECC-3A21BE535E71}|Rez_Lab.csproj|solutionrelative:pryam_metal\\pryam_metal_cond\\pryam_metal_cond_technolog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AFF7C0-8516-414B-9ECC-3A21BE535E71}|Rez_Lab.csproj|C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\startwindow_correcter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AFF7C0-8516-414B-9ECC-3A21BE535E71}|Rez_Lab.csproj|solutionrelative:startwindow_correcter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AFF7C0-8516-414B-9ECC-3A21BE535E71}|Rez_Lab.csproj|C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\pryam_metal\\pryam_metal_cond\\pryam_metal_cond_technolog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49AFF7C0-8516-414B-9ECC-3A21BE535E71}|Rez_Lab.csproj|solutionrelative:pryam_metal\\pryam_metal_cond\\pryam_metal_cond_technolog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AFF7C0-8516-414B-9ECC-3A21BE535E71}|Rez_Lab.csproj|C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\pryam_metal\\pryam_metal_cond\\pryam_metal_cond_laborant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49AFF7C0-8516-414B-9ECC-3A21BE535E71}|Rez_Lab.csproj|solutionrelative:pryam_metal\\pryam_metal_cond\\pryam_metal_cond_laborant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AFF7C0-8516-414B-9ECC-3A21BE535E71}|Rez_Lab.csproj|C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\pryam_metal\\pryam_metal_cond\\pryam_metal_cond_corrector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49AFF7C0-8516-414B-9ECC-3A21BE535E71}|Rez_Lab.csproj|solutionrelative:pryam_metal\\pryam_metal_cond\\pryam_metal_cond_corrector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AFF7C0-8516-414B-9ECC-3A21BE535E71}|Rez_Lab.csproj|C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\pryam_metal\\pryam_metal_cond\\pryam_metal_cond_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49AFF7C0-8516-414B-9ECC-3A21BE535E71}|Rez_Lab.csproj|solutionrelative:pryam_metal\\pryam_metal_cond\\pryam_metal_cond_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AFF7C0-8516-414B-9ECC-3A21BE535E71}|Rez_Lab.csproj|C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\pryam_metal\\pryam_metal_cond\\pryam_metal_cond_laborant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AFF7C0-8516-414B-9ECC-3A21BE535E71}|Rez_Lab.csproj|solutionrelative:pryam_metal\\pryam_metal_cond\\pryam_metal_cond_laborant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AFF7C0-8516-414B-9ECC-3A21BE535E71}|Rez_Lab.csproj|C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\pryam_metal\\pryam_metal_cond\\pryam_metal_cond_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AFF7C0-8516-414B-9ECC-3A21BE535E71}|Rez_Lab.csproj|solutionrelative:pryam_metal\\pryam_metal_cond\\pryam_metal_cond_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AFF7C0-8516-414B-9ECC-3A21BE535E71}|Rez_Lab.csproj|C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\black_hole\\cleaner\\black_hole_cleaner_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AFF7C0-8516-414B-9ECC-3A21BE535E71}|Rez_Lab.csproj|solutionrelative:black_hole\\cleaner\\black_hole_cleaner_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WC.cs",
+              "DocumentMoniker": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\WC.cs",
+              "RelativeDocumentMoniker": "WC.cs",
+              "ToolTip": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\WC.cs",
+              "RelativeToolTip": "WC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:58:42.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pryam_Metal_Cond_Laborant.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Laborant.cs",
+              "RelativeDocumentMoniker": "Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Laborant.cs",
+              "ToolTip": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Laborant.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Laborant.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:56:28.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pryam_Metal_Cond_Corrector.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Corrector.cs",
+              "RelativeDocumentMoniker": "Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Corrector.cs",
+              "ToolTip": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Corrector.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Corrector.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:56:12.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pryam_Metal_Cond_Admin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Admin.cs",
+              "RelativeDocumentMoniker": "Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Admin.cs",
+              "ToolTip": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Admin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Admin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:55:56.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pryam_Metal_Cond_Technolog.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Technolog.cs",
+              "RelativeDocumentMoniker": "Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Technolog.cs",
+              "ToolTip": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Technolog.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Technolog.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:17:39.07Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pryam_Metal_Cond_Technolog.cs",
+              "DocumentMoniker": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Technolog.cs",
+              "RelativeDocumentMoniker": "Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Technolog.cs",
+              "ToolTip": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Technolog.cs",
+              "RelativeToolTip": "Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Technolog.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:06:58.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartWindow_correcter.cs",
+              "DocumentMoniker": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\StartWindow_correcter.cs",
+              "RelativeDocumentMoniker": "StartWindow_correcter.cs",
+              "ToolTip": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\StartWindow_correcter.cs",
+              "RelativeToolTip": "StartWindow_correcter.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwGoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:46:11.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pryam_Metal_Cond_Laborant.cs",
+              "DocumentMoniker": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Laborant.cs",
+              "RelativeDocumentMoniker": "Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Laborant.cs",
+              "ToolTip": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Laborant.cs",
+              "RelativeToolTip": "Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Laborant.cs",
+              "ViewState": "AgIAADkCAAAAAAAAAAAqwNcCAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:06:51.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pryam_Metal_Cond_Admin.cs",
+              "DocumentMoniker": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Admin.cs",
+              "RelativeDocumentMoniker": "Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Admin.cs",
+              "ToolTip": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Admin.cs",
+              "RelativeToolTip": "Pryam_Metal\\Pryam_Metal_Cond\\Pryam_Metal_Cond_Admin.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:05:54.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Black_Hole_Cleaner_Admin.cs",
+              "DocumentMoniker": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\Black_Hole\\Cleaner\\Black_Hole_Cleaner_Admin.cs",
+              "RelativeDocumentMoniker": "Black_Hole\\Cleaner\\Black_Hole_Cleaner_Admin.cs",
+              "ToolTip": "C:\\Users\\ya.dudarev\\Desktop\\DYA\\\u002BPrograms\\Rez_Lab\\Black_Hole\\Cleaner\\Black_Hole_Cleaner_Admin.cs",
+              "RelativeToolTip": "Black_Hole\\Cleaner\\Black_Hole_Cleaner_Admin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:05:51.083Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

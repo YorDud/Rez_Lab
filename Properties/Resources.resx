@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="ras okis 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ras okis 2.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="хим декапир" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\хим декапир.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="predmet2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\predmet2.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="золот микротрав" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\золот микротрав.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mask prov" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mask prov.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="трав под пал" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\трав под пал.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="золот хим ник" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\золот хим ник.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="predmet1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\predmet1.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BAK 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BAK 2.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="золот имерс золот" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\золот имерс золот.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="трав под мг" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\трав под мг.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="дес_прояв" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\дес_прояв.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="золот предактив" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\золот предактив.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="сн фоторез" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\сн фоторез.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rez1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Rez1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="золот актив" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\золот актив.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="мг микротрав" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\мг микротрав.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="золот азот" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\золот азот.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BH микротр 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BH микротр 1.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="пал ку эл" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\пал ку эл.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="predne" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\predne.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CUel34" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CUel34.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="окс_Предактив" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\окс_Предактив.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="хим фоторез микротрав" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\хим фоторез микротрав.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CUel12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CUel12.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="пал дек ку" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\пал дек ку.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cleaner" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cleaner.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="netr" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\netr.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Info_Simple.svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Info_Simple.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="маск ульт" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\маск ульт.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bhc 1032" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bhc 1032.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="трав 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\трав 2.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sens 3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sens 3.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="трав 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\трав 1.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="золот кис оч" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\золот кис оч.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="пал кис оч" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\пал кис оч.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sens 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sens 2.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ras okis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ras okis.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="пал дек сн" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\пал дек сн.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="дес_ульт" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\дес_ульт.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="metal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\metal.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="фоторез прояв11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\фоторез прояв11.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cond" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cond.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="сн олов" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\сн олов.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rez11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Rez1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="мг сн эл" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\мг сн эл.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="золот постактив" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\золот постактив.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="мг ку эл" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\мг ку эл.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\rz.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="фоторез ульт" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\фоторез ульт.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="фоторез прояв" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\фоторез прояв.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sens 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sens 1.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="мг дек сн" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\мг дек сн.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sens 11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sens 11.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="дес_снятие_фоторез" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\дес_снятие_фоторез.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="пал микротрав" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\пал микротрав.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="пал сн эл" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\пал сн эл.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="дес_кислое" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\дес_кислое.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tab_Uskor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tab_Uskor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Info_Simple1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\Info_Simple.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Хим фоторез кис оч" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Хим фоторез кис оч.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="фоторез прояв2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\фоторез прояв2.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="мг дек ку" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\мг дек ку.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="хим микротрав" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\хим микротрав.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="фоторез прояв3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\фоторез прояв3.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="лужен" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\лужен.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="окс_ЩелОчист" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\окс_ЩелОчист.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Хим кис оч" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Хим кис оч.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="мг кис оч" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\мг кис оч.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="фоторез прояв1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\фоторез прояв1.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BHC 1012 1022" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BHC 1012 1022.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="окс_Окс" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\окс_Окс.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dek cu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dek cu.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="хим фоторез декапир" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\хим фоторез декапир.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ras okis 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ras okis 1.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BH микротр 23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BH микротр 23.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BAK" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BAK.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="прям_конд2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\прям_конд2.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

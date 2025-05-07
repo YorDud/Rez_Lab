@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Rez_Lab.exe" version="1.0.0.30" publicKeyToken="5c1e97b01b9444e2" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Rez_Lab" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Rez_Lab.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          Если нужно изменить уровень контроля учетных записей Windows, замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если нужно использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Rez_Lab.exe" size="96400848">
+      <assemblyIdentity name="Rez_Lab" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>dej/eO01ZyJRNjDCl/uA91nWFRRkPeWw7ridaxNzMzw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Rez_Lab.exe.config" size="565">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ThIFb2xv99BfTf2VdYautB/lY2d8V64vxDr/iqK8+XA=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=REMICON\ya.dudarev" issuerKeyHash="a9924f40a8a82fb258d3d24e7eec261a104175a1" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Y3KInEs4HXJLutqCIBAOUOh9T+3IEVQNYQTHqtbaT9I=</DigestValue></Reference></SignedInfo><SignatureValue>DK3Vd5lcO5n/rTTyRK8cdd3uiKTdozhiwhgya/kz1YV5iTSux6GfdRExVbDlnGIK722LHx48mASx/r7FdvYwYCRykQ4B8JyGySgm7YOeL9jxQx9NZZfbT0J4xW0mOLMBDpcW9xmSDaBjpFrrm2KO1IJQXwsi6gVDYqzgRRSa9wA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>5hFbDWh3R/69qBjJzGFgSDp4ULNL3IOi5wTt6JMzYipDcX1Sy+vSqkGC3GfbWCl45YE7URfydkmkn6wZFle7sidqgv4doBWl6HZ7Pcb520pU6p1pIJPjJkFd31ikY7wVTXpQmZhCDJ092ZrkjGa5GHQVqZcRjzPBhkERjjnLNp0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d24fdad6aac704610d5411c8ed4f7de8500e102082daba4b721d384b9c887263" Description="" Url=""><as:assemblyIdentity name="Rez_Lab.exe" version="1.0.0.30" publicKeyToken="5c1e97b01b9444e2" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=REMICON\ya.dudarev</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>emd/0nFs9loRL9r3ouwSCauRRq9z66wb4xYwVv2R7jc=</DigestValue></Reference></SignedInfo><SignatureValue>rJByf88p9wXRPbE3n6l8tNlA8Eq2zib5dcw8Xr9hb4xALGKwxz+54DvVn5Z7CDpkdKBccfJ+QZNE5/KRvtAfuOCjDG/3t6Ea33/z/1pddHA5ttPDuMV09K7ZaR8Ty70filSnWYxQHafpQdDwe0L8w5RVC3HqefO14ulJN1dnDwY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>5hFbDWh3R/69qBjJzGFgSDp4ULNL3IOi5wTt6JMzYipDcX1Sy+vSqkGC3GfbWCl45YE7URfydkmkn6wZFle7sidqgv4doBWl6HZ7Pcb520pU6p1pIJPjJkFd31ikY7wVTXpQmZhCDJ092ZrkjGa5GHQVqZcRjzPBhkERjjnLNp0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQa4ZWlxoZp5RGbR5U5CmQpjANBgkqhkiG9w0BAQsFADAvMS0wKwYDVQQDHiQAUgBFAE0ASQBDAE8ATgBcAHkAYQAuAGQAdQBkAGEAcgBlAHYwHhcNMjQxMDAxMTEwMDU2WhcNMjUxMDAxMTcwMDU2WjAvMS0wKwYDVQQDHiQAUgBFAE0ASQBDAE8ATgBcAHkAYQAuAGQAdQBkAGEAcgBlAHYwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOYRWw1od0f+vagYycxhYEg6eFCzS9yDoucE7eiTM2IqQ3F9Usvr0qpBgtxn21gpeOWBO1EX8nZJpJ+sGRZXu7InaoL+HaAVpeh2ez3G+dtKVOqdaSCT4yZBXd9YpGO8FU16UJmYQgydPdma5IxmuRh0FamXEY8zwYZBEY45yzadAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAboIWdIBcBp2OoaYs/OQkrVuWAG8GmRks6WcaenrM3eFc9hNuD+JlSubvvIah11KagR0mPAVSmdULMRHZN0i0FpMtJdlA5oJP9CpsjQprgU7rQKpsR8amsJNJv3gdAee/+U5I02AugrSrKPBdaCyPLKt1OEEUWVMXEf9mlg0LwoQ=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
